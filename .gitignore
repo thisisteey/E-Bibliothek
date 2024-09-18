@@ -1,0 +1,6 @@
+# backend
+# Ignore backend virtual enviroment
+venv/
+
+# Ignore vscode dir and settings
+.vscode/
